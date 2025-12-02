@@ -49,7 +49,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for fast, reliable depen
 
 1. Clone or navigate to the project directory:
 ```bash
-cd multi-agent-research
+cd multi-agent
 ```
 
 2. Dependencies are already installed via uv. If you need to reinstall:
